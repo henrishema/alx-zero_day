@@ -1,1 +1,1 @@
-Git repository
+Git project
